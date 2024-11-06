@@ -1,0 +1,10 @@
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+nltk
+torch
+transformers
+scikit-learn
+accelerate
